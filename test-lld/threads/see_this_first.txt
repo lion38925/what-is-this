@@ -1,0 +1,22 @@
+first see this file
+basic
+thread_Detach
+thread with object
+thread with object function
+thread with params
+thread with this header namespace
+concurrent issue
+mutex
+condition var with mutex
+semaphore
+producer and consumer
+shared mutex for reader writer
+
+-- changes done to work semaphore
+cpp standard -> made from deafult to c++20
+ go to settings then search cpp standard change cpp standard
+
+ 2nd change done
+ settings-> seacrh run code config -> cod runner :executor map file edit in settings.json
+
+change c++ value added  -std=c++20
